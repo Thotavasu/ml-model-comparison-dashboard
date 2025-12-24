@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+metrics.json
+models/
+.DS_Store
+.streamlit/
