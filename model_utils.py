@@ -144,7 +144,7 @@ def save_metrics(metrics: Dict, filepath: str = "metrics.json") -> None:
 
 
 def load_dataset(csv_path: str) -> pd.DataFrame:
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv("C:/Users/thota/OneDrive/ドキュメント/ml-model-comparison-dashboard/data/heart.csv")
     if df.empty:
         raise ValueError("Dataset loaded but is empty.")
     return df

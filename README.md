@@ -20,9 +20,11 @@ This project demonstrates real-world ML workflow skills such as:
   - Model comparison chart
   - Retrain models button
 
+=======
+
 ---
 
-##  Why this project matters (Real-world relevance)
+## Why this project matters (Real-world relevance)
 
 In real companies, ML engineers:
 - test multiple models before choosing one
@@ -34,6 +36,8 @@ This project simulates that exact workflow.
 
 ---
 
+
+
 ##  Tech Stack
 - Python
 - pandas
@@ -42,4 +46,6 @@ This project simulates that exact workflow.
 - matplotlib
 - joblib
 
+
 ---
+=======
